@@ -39,6 +39,7 @@ class MyOutlineButtonState extends State<MyOutlinedButton> {
           color: (_isHovered) ? ColorNames.gray3 : ColorNames.gray4,
         ),
         child: Text(
+          //test
           widget.text,
           style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
         ),
