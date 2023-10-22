@@ -1,0 +1,6 @@
+2023/10/22-20:07:37.996 a803 Creating DB /private/var/folders/1v/j8j0nt5s1x1153j1yx2tgxq00000gp/T/flutter_tools.pr0BDG/flutter_tools_chrome_device.rm0Ms3/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb since it was missing.
+2023/10/22-20:07:38.017 a803 Reusing MANIFEST /private/var/folders/1v/j8j0nt5s1x1153j1yx2tgxq00000gp/T/flutter_tools.pr0BDG/flutter_tools_chrome_device.rm0Ms3/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/22-20:07:43.538 8703 Level-0 table #5: started
+2023/10/22-20:07:43.545 8703 Level-0 table #5: 385 bytes OK
+2023/10/22-20:07:43.559 8703 Delete type=0 #3
+2023/10/22-20:07:43.560 8703 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
